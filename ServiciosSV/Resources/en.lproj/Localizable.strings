@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  ServiciosSV
+
+  Created by Sara Ascencio on 6/5/26.
+  
+*/
+"greeting_title" = "Welcome!";
+"greeting_subtitle" = "Explore the available services below.";
+"services_title" = "Available Services";
+"price_from" = "Price from";
+"estimated_time" = "Estimated time";
+"about_service" = "About this service";
+"close_button" = "Close";
+"language_selector_title" = "Language and Currency";
+
+"service_gardening_title" = "Gardening";
+"service_gardening_desc" = "Garden maintenance, pruning and cleaning.";
+"service_gardening_long" = "Complete service including plant pruning, lawn mowing, green area cleaning and basic fertilization.";
+"service_gardening_time" = "2-4 hours";
+
+"service_locksmith_title" = "Locksmith";
+"service_locksmith_desc" = "Door opening and lock changing.";
+"service_locksmith_long" = "Damage-free opening, high-security lock change and key duplication.";
+"service_locksmith_time" = "30-60 min";
+
+"service_electrician_title" = "Electrician";
+"service_electrician_desc" = "Electrical installation and repair.";
+"service_electrician_long" = "Short circuit repair, outlet installation, LED lights and electrical panels.";
+"service_electrician_time" = "1-3 hours";
+
+"service_plumber_title" = "Plumber";
+"service_plumber_desc" = "Pipe and leak repair.";
+"service_plumber_long" = "Leak detection and repair, pipe unclogging and sanitary installation.";
+"service_plumber_time" = "1-2 hours";
+
+"service_painter_title" = "Painter";
+"service_painter_desc" = "Interior and exterior painting.";
+"service_painter_long" = "Surface preparation, acrylic or enamel paint up to 2 coats.";
+"service_painter_time" = "4-8 hours";

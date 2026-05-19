@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  ServiciosSV
+
+  Created by Sara Ascencio on 6/5/26.
+  
+*/
+"greeting_title" = "Bienvenue !";
+"greeting_subtitle" = "Découvrez les services disponibles ci-dessous.";
+"services_title" = "Services Disponibles";
+"price_from" = "Prix à partir de";
+"estimated_time" = "Temps estimé";
+"about_service" = "À propos de ce service";
+"close_button" = "Fermer";
+"language_selector_title" = "Langue et devise";
+
+"service_gardening_title" = "Jardinage";
+"service_gardening_desc" = "Entretien de jardins, taille et nettoyage.";
+"service_gardening_long" = "Service complet incluant la taille des plantes, la tonte de gazon, le nettoyage des espaces verts et la fertilisation.";
+"service_gardening_time" = "2-4 heures";
+
+"service_locksmith_title" = "Serrurier";
+"service_locksmith_desc" = "Ouverture de portes et changement de serrures.";
+"service_locksmith_long" = "Ouverture sans dommage, changement de serrures haute sécurité et duplication de clés.";
+"service_locksmith_time" = "30-60 min";
+
+"service_electrician_title" = "Électricien";
+"service_electrician_desc" = "Installation et réparation électrique.";
+"service_electrician_long" = "Réparation de courts-circuits, installation de prises, lumières LED et tableaux électriques.";
+"service_electrician_time" = "1-3 heures";
+
+"service_plumber_title" = "Plombier";
+"service_plumber_desc" = "Réparation de tuyaux et fuites.";
+"service_plumber_long" = "Détection et réparation de fuites, débouchage de canalisations et installation sanitaire.";
+"service_plumber_time" = "1-2 heures";
+
+"service_painter_title" = "Peintre";
+"service_painter_desc" = "Peinture intérieure et extérieure.";
+"service_painter_long" = "Préparation des surfaces, peinture acrylique ou émail jusqu'à 2 couches.";
+"service_painter_time" = "4-8 heures";

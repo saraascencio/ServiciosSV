@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  ServiciosSV
+
+  Created by Sara Ascencio on 6/5/26.
+  
+*/
+"greeting_title" = "¡Bienvenido!";
+"greeting_subtitle" = "Explora los servicios disponibles a continuación.";
+"services_title" = "Servicios Disponibles";
+"price_from" = "Precio desde";
+"estimated_time" = "Tiempo estimado";
+"about_service" = "Acerca de este servicio";
+"close_button" = "Cerrar";
+"language_selector_title" = "Idioma y moneda";
+
+"service_gardening_title" = "Jardinería";
+"service_gardening_desc" = "Mantenimiento de jardines, poda y limpieza.";
+"service_gardening_long" = "Servicio completo que incluye poda de plantas, corte de césped, limpieza de áreas verdes y fertilización básica.";
+"service_gardening_time" = "2-4 horas";
+
+"service_locksmith_title" = "Cerrajero";
+"service_locksmith_desc" = "Apertura de puertas y cambio de cerraduras.";
+"service_locksmith_long" = "Apertura sin daño, cambio de cerraduras de alta seguridad y duplicado de llaves.";
+"service_locksmith_time" = "30-60 min";
+
+"service_electrician_title" = "Electricista";
+"service_electrician_desc" = "Instalación y reparación eléctrica.";
+"service_electrician_long" = "Reparación de cortocircuitos, instalación de enchufes, luces LED y paneles eléctricos.";
+"service_electrician_time" = "1-3 horas";
+
+"service_plumber_title" = "Plomero";
+"service_plumber_desc" = "Reparación de tuberías y fugas.";
+"service_plumber_long" = "Detección y reparación de fugas, destape de cañerías e instalación de sanitarios.";
+"service_plumber_time" = "1-2 horas";
+
+"service_painter_title" = "Pintor";
+"service_painter_desc" = "Pintura interior y exterior.";
+"service_painter_long" = "Preparación de superficies, pintura acrílica o esmalte hasta 2 capas.";
+"service_painter_time" = "4-8 horas";

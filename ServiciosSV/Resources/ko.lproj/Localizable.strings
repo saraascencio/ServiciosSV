@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  ServiciosSV
+
+  Created by Sara Ascencio on 6/5/26.
+  
+*/
+"greeting_title" = "환영합니다!";
+"greeting_subtitle" = "아래에서 이용 가능한 서비스를 확인하세요.";
+"services_title" = "이용 가능한 서비스";
+"price_from" = "가격";
+"estimated_time" = "예상 시간";
+"about_service" = "이 서비스에 대해";
+"close_button" = "닫기";
+"language_selector_title" = "언어 및 통화";
+
+"service_gardening_title" = "정원 가꾸기";
+"service_gardening_desc" = "정원 관리, 가지치기 및 청소.";
+"service_gardening_long" = "식물 가지치기, 잔디 깎기, 녹지 청소 및 기본 비료 시공을 포함한 종합 서비스입니다.";
+"service_gardening_time" = "2-4시간";
+
+"service_locksmith_title" = "자물쇠 기술자";
+"service_locksmith_desc" = "문 개방 및 자물쇠 교체.";
+"service_locksmith_long" = "손상 없는 개방, 고보안 자물쇠 교체 및 열쇠 복제.";
+"service_locksmith_time" = "30-60분";
+
+"service_electrician_title" = "전기 기술자";
+"service_electrician_desc" = "전기 설치 및 수리.";
+"service_electrician_long" = "단락 수리, 콘센트 설치, LED 조명 및 전기 패널 작업.";
+"service_electrician_time" = "1-3시간";
+
+"service_plumber_title" = "배관공";
+"service_plumber_desc" = "배관 및 누수 수리.";
+"service_plumber_long" = "누수 탐지 및 수리, 배관 뚫음, 위생 설비 설치.";
+"service_plumber_time" = "1-2시간";
+
+"service_painter_title" = "도장공";
+"service_painter_desc" = "실내외 도장 작업.";
+"service_painter_long" = "표면 준비, 아크릴 또는 에나멜 페인트 2회 도장.";
+"service_painter_time" = "4-8시간";

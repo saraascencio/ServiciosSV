@@ -9,9 +9,12 @@ import SwiftUI
 
 @main
 struct ServiciosSVApp: App {
+    let diContainer = AppDIContainer()
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView(viewModel: diContainer.makeHomeViewModel())
+                .preferredColorScheme(.light)
         }
     }
 }
